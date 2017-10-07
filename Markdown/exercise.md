@@ -1,3 +1,4 @@
+Markdown 语法兼容 HTML，HTML的区段标签可以在markdown的段落、列表或是标题里随意使用。而在HTML区块标签内的markdown格式语法将不会被处理。  
 ### Headers
 Setext-style:
 
